@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{F47F0829-FC39-4D83-9803-6B585A4CDC36}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ChristmasIllustation/SantaClausPage.xaml">
+    <Files>
+      <File FileName="ChristmasIllustation/SantaClausPage.xaml" Line="12" Column="48" />
+      <File FileName="ChristmasIllustation/MauiProgram.cs" Line="17" Column="17" />
+      <File FileName="ChristmasIllustation/App.xaml.cs" Line="9" Column="32" />
+      <File FileName="ChristmasIllustation/WalkingStickPage.xaml" Line="12" Column="1" />
+      <File FileName="ChristmasIllustation/AppShell.xaml" Line="11" Column="62" />
+      <File FileName="ChristmasIllustation/Resources/Styles/Styles.xaml" Line="426" Column="1" />
+      <File FileName="ChristmasIllustation/Resources/Styles/Colors.xaml" Line="45" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ChristmasIllustation" expanded="True">
+            <Node name="ChristmasIllustation" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="Fonts" expanded="True" />
+                <Node name="Images" expanded="True" />
+                <Node name="Styles" expanded="True" />
+              </Node>
+              <Node name="SantaClausPage.xaml" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.D025FF4C-9293-4CBC-901E-5A4332C2C730" />
+  <MonoDevelop.Ide.ItemProperties.ChristmasIllustation PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.D025FF4C-9293-4CBC-901E-5A4332C2C730" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ChristmasIllustation.WalkingStickPage"
+             BackgroundColor="{AppThemeBinding Light=White,Dark={StaticResource DarkBackgroundColor}}">
+
+        <VerticalStackLayout >
+            <Image Source="walkingstick"/>
+            <Label Text="Hands Gestures" Style="{StaticResource ChristmasTitle}"/>
+            <Label Text="Use funny holiday visualisation to engage more with customer" Style="{StaticResource ChristmasDescription}"/>
+
+            <!--Circle Button with Shadows-->
+            <Button Style="{StaticResource ChristmasCircle}">
+                <Button.Shadow>
+                       <Shadow Brush="#666666"
+                               Offset="5,5"
+                               Radius="5"
+                               Opacity="0.9"/>
+                </Button.Shadow>
+            </Button>
+        </VerticalStackLayout> 
+
+</ContentPage>
